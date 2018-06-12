@@ -43,7 +43,7 @@ ext {
     compileSdk = 27
     targetSdk = 27
     minSdkInstant = 21
-    minSdk = 19
+    minSdk = 21
 
     supportLibVersion = "27.1.1"
     playServicesAuthVersion = "11.8.0"
