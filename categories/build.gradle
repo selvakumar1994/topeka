@@ -25,7 +25,7 @@ android {
         minSdkVersion rootProject.minSdk
         targetSdkVersion rootProject.targetSdk
         versionCode 2
-        versionName "1.1"
+        versionName "1.0.2"
         testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
     }
 
