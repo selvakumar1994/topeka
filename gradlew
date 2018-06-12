@@ -27,7 +27,6 @@ die ( ) {
 }
 
 # OS specific support (must be 'true' or 'false').
-android.enableAapt2=true
 cygwin=false
 msys=false
 darwin=false
