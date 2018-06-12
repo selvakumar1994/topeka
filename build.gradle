@@ -39,7 +39,7 @@ allprojects {
 }
 
 ext {
-    buildTools = "27.0.3"
+    buildTools = "24.0.3"
     compileSdk = 27
     targetSdk = 27
     minSdkInstant = 21
