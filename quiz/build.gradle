@@ -20,6 +20,7 @@ apply plugin: 'kotlin-android'
 android {
     buildToolsVersion rootProject.buildTools
     compileSdkVersion rootProject.compileSdk
+    baseFeature = true
 
     defaultConfig {
         minSdkVersion rootProject.minSdk
